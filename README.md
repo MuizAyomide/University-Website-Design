@@ -1,6 +1,6 @@
 # University Website Design
 
-Welcome to the University Website Design project by AKINRINOLA MUIZ from EASY TUTORI. This project aims to create a user-friendly and visually appealing website for educational institutions.
+Welcome to the University Website Design project by AKINRINOLA MUIZ from EASY TUTORIAL. This project aims to create a user-friendly and visually appealing website for educational institutions.
 
 ## Table of Contents
 - Introduction
